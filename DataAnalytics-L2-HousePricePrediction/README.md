@@ -2,9 +2,9 @@
 
 ## OIBSIP Internship
 
-**Track:** Data Analytics
-**Level/Task:** Level 2 - Task 1
-**Project:** Predicting House Prices with Linear Regression
+- **Track:** Data Analytics
+- **Level/Task:** Level 1 - Task 1
+- **Project:** Predicting House Prices with Linear Regression
 
 ## Project Overview
 
