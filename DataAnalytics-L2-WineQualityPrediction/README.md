@@ -63,7 +63,7 @@ The dataset contains physicochemical measurements of red wine samples, including
 
 ## Project Structure
 
-DataAnalytics-Level2-WineQualityPrediction/
+DataAnalytics-Level2-Task2-WineQualityPrediction/
 │
 ├── Data/
 │   └── winequality-red.csv
